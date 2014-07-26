@@ -164,8 +164,23 @@ git checkout master
 
 
 ---
+#Collaborating on GitHub-GitHub Flow
 
-#Collaborating on GitHub
++ Branch
+
+--
+
++ Code
+
+--
+
++ Pull Request
+
+--
+
++ Merge
+---
+#Collaborating on GitHub - Creating Branches
 
 ![Default Aligned Image](https://github-images.s3.amazonaws.com/help/branch/branch-selection-dropdown.png) 
 
