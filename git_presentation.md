@@ -86,4 +86,27 @@ git add <file>
 ```
 git commit -m 'Commit message'
 ```
+The commit message details what you've changed. 
+---
 
+# Git Basics
+
+* You can push the changes back to GitHub:
+```
+git push origin <branch>
+```
+Where <branch> is the branch you are working from.
+
+--
+
+*  Branches can be used to isolate changes.  
+
+--
+
+*  The master branch is the default branch, and new branches can be created from it.
+
+--
+
+*  You can use a branch for developing a feature and then merge it back into the master branch.
+
+---
