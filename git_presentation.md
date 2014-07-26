@@ -38,6 +38,7 @@ name: git
 # Where to get Git
 
 *  [Git Download](http://git-scm.com/downloads)
+
 *  [Git GUI Clients](http://git-scm.com/downloads/guis)
 
 ---
@@ -55,3 +56,12 @@ name: GitHub
 --
 
 *  It adds functionality like forking, and pull requests which contribute to a collaborative model.
+
+---
+
+# Git Basics
+
+*  To create a new repository, cd into the directory and type:
+```
+git init
+```
