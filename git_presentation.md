@@ -186,6 +186,16 @@ git checkout master
 
 ---
 
+#Collaborating on GitHub - Creating Pull Requests
+
+![Default Aligned Image](https://github-images.s3.amazonaws.com/help/pull_requests/pull-request-start-review-button.png)
+
+--
+
+!Default Aligned Image](https://github-images.s3.amazonaws.com/help/pull_requests/pull-request-click-to-create.png)
+
+---
+
 # Things that make GitHub worth using
 
 *  [Issues tracking and Milestones](https://guides.github.com/features/issues/)
@@ -194,7 +204,7 @@ git checkout master
 
 *  Pull Requests
 
-*  Its a place to publish our code to. People can easily access it. 
+*  Its a place to publish our code that people can easily access. 
 
 *  GitHub pages
 
@@ -214,4 +224,3 @@ git checkout master
 
 *  [GitHub Guides](https://guides.github.com/)
 
-*  
