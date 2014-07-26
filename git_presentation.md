@@ -86,7 +86,7 @@ git add <file>
 ```
 git commit -m 'Commit message'
 ```
-The commit message details what you've changed. 
+The commit message details what you''ve changed. 
 ---
 
 # Git Basics
