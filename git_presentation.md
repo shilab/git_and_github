@@ -167,7 +167,7 @@ git checkout master
 
 #Collaborating on GitHub
 
-*  
+![Default Aligned Image](https://github-images.s3.amazonaws.com/help/branch/branch-selection-dropdown.png) 
 
 ---
 
