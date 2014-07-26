@@ -65,3 +65,25 @@ name: GitHub
 ```
 git init
 ```
+
+--
+
+*  You can also clone a remote repository, like the one this presentation is on:
+```
+git clone https://github.com/shilab/git_and_github.git
+```
+
+--
+
+*  To add files for git to track:
+```
+git add <file>
+```
+
+--
+
+*  To commit the file to the repository:
+```
+git commit -m 'Commit message'
+```
+
