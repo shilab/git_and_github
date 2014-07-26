@@ -105,12 +105,17 @@ git pull
 ```
 git -log
 ```
+---
 
 * You can push the changes back to GitHub:
 ```
 git push origin <branch>
 ```
 Where ```<branch>``` is the branch you are working from.
+
+---
+
+# Git Branches
 
 *  Branches can be used to isolate changes.  
 
@@ -121,9 +126,8 @@ Where ```<branch>``` is the branch you are working from.
 --
 
 *  You can use a branch for developing a feature and then merge it back into the master branch.
----
 
-# Git Branches
+--
 
 *  To create a branch:  
 ```
