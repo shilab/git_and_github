@@ -109,7 +109,6 @@ Where ```<branch>``` is the branch you are working from.
 --
 
 *  You can use a branch for developing a feature and then merge it back into the master branch.
-```
 ---
 
 # Git Branches
