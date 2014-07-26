@@ -183,7 +183,7 @@ git checkout master
 
 #Collaborating on GitHub - The Repo
 
-.right[PageView](github_page.png)
+.right[!Right Aligned Image](github_page.png)
 <!--<img src = "github_page.png" style="width: 120%; height: 120%"/>-->
 
 ---
