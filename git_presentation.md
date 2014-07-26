@@ -164,7 +164,7 @@ git checkout master
 
 
 ---
-#Collaborating on GitHub-GitHub Flow
+#Collaborating on GitHub - GitHub Flow
 
 * Create a branch 
 
@@ -179,6 +179,12 @@ git checkout master
 --
 
 * Discuss changes/Review code 
+---
+
+#Collaborating on GitHub - The Repo
+
+![Default Aligned Image](github_page.png)
+
 ---
 #Collaborating on GitHub - Creating Branches
 
