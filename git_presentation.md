@@ -19,4 +19,7 @@ Andrew Quitadamo
 ---
 name: git
 
-# What is Git?
+# What is Git?  
+
+*  Git is a Distributed Version Control System
+*  It tracks file changes and stores them
