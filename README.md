@@ -1,2 +1,2 @@
-git_and_github
+Introduction to Git and GitHub
 ==============
