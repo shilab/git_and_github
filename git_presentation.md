@@ -183,7 +183,7 @@ git checkout master
 
 #Collaborating on GitHub - The Repo
 
-<img src = "github_page.png" style="width: 50%; height: 50%"/>
+<img src = "github_page.png" style="width: 75%; height: 75%"/>
 
 ---
 #Collaborating on GitHub - Creating Branches
