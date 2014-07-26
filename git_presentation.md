@@ -114,7 +114,7 @@ Where ```<branch>``` is the branch you are working from.
 
 # Git Branches
 
-*  To create a branch:
+*  To create a branch:  
 ```
 git checkout -b <new_branch>
 ```
