@@ -22,4 +22,21 @@ name: git
 # What is Git?  
 
 *  Git is a Distributed Version Control System
-*  It tracks file changes and stores them
+--
+*  It tracks changes to files and stores them
+--
+*  It allows you to revert file changes, view differences in file versions
+
+---
+# Where to get Git
+
+*  [Git Download](http://git-scm.com/downloads)
+*  [Git GUI Clients](http://git-scm.com/downloads/guis)
+
+---
+
+name: GitHub
+
+# What is GitHub
+
+*  GitHub
