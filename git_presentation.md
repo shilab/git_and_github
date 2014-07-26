@@ -166,23 +166,39 @@ git checkout master
 ---
 #Collaborating on GitHub-GitHub Flow
 
-+ Branch
+* Create a branch 
 
 --
 
-+ Code
+* Code and commit
 
 --
 
-+ Pull Request
+* Create Pull Request
 
 --
 
-+ Merge
+* Discuss changes/Review code 
 ---
 #Collaborating on GitHub - Creating Branches
 
 ![Default Aligned Image](https://github-images.s3.amazonaws.com/help/branch/branch-selection-dropdown.png) 
+
+---
+
+# Things that make GitHub worth using
+
+*  [Issues tracking and Milestones](https://guides.github.com/features/issues/)
+
+*  [Code as citable objects](https://guides.github.com/activities/citable-code/)
+
+*  Pull Requests
+
+*  Its a place to publish our code to. People can easily access it. 
+
+*  GitHub pages
+
+*  The collaboration model
 
 ---
 
@@ -191,3 +207,11 @@ git checkout master
 *  [Pro Git](http://git-scm.com/book)
 
 *  [Software Carpentry Git & GitHub Lesson](http://software-carpentry.org/v5/novice/git/index.html)
+
+*  [Collaboration on GitHub](https://help.github.com/articles/using-pull-requests)
+
+*  [GitHub Flow](https://guides.github.com/introduction/flow/index.html)
+
+*  [GitHub Guides](https://guides.github.com/)
+
+*  
