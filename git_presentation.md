@@ -8,16 +8,18 @@ Andrew Quitadamo
 
 # Overview
 
-1. What is Git?
+*   What is Git?
 
 --
-2. What is GitHub?
+
+*  What is GitHub?
 
 --
-3. Git Basics
+
+*  Git Basics
 
 --
-4. Collaborating on GitHub
+*  Collaborating on GitHub
 
 ---
 name: git
@@ -96,3 +98,5 @@ The commit message details what you have changed.
 ```
 git push origin <branch>
 ```
+Where <branch> is the branch you are working from.
+
