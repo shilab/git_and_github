@@ -46,6 +46,8 @@ name: GitHub
 
 *  GitHub is a web based repository host for Git.  
 
+--
 *  GitHub adds a web-based interface for Git. 
 
+--
 *  It adds functionality like forking, and pull requests which contribute to a collaborative model.
