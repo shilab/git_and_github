@@ -105,7 +105,7 @@ git pull
 ```
 git -log
 ```
----
+--
 
 * You can push the changes back to GitHub:
 ```
@@ -140,3 +140,17 @@ git checkout -b <new_branch>
 ```
 git checkout master
 ```
+
+---
+
+#Getting Started on GitHub
+
+*  If you don't have an account you can sign up at [GitHub](https://github.com/)
+
+--
+
+*  With a .edu email address you can get 5 free private repos [GitHub Education](https://education.github.com/)
+
+--
+
+*  Our lab GitHub account is at https://github.com/shilab
