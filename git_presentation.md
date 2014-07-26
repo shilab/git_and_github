@@ -183,8 +183,7 @@ git checkout master
 
 #Collaborating on GitHub - The Repo
 
-.right[![Right Aligned Image](github_page.png)]
-<!--<img src = "github_page.png" style="width: 120%; height: 120%"/>-->
+<img src = "github_page.png" style="width: 110%; height: 110%"/>
 
 ---
 #Collaborating on GitHub - Creating Branches
