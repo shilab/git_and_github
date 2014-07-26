@@ -90,3 +90,9 @@ The commit message details what you have changed.
 
 ---
 
+# Git Basics
+
+* You can push the changes back to GitHub:
+```
+git push origin <branch>
+```
