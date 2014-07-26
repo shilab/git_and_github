@@ -101,6 +101,13 @@ git pull
 
 --
 
+* To see the status of the files in the repository:
+```
+git status
+```
+
+--
+
 *  To see the repository history
 ```
 git -log
@@ -154,3 +161,18 @@ git checkout master
 --
 
 *  Our lab GitHub account is at https://github.com/shilab
+
+
+---
+
+#Collaborating on GitHub
+
+*  
+
+---
+
+# Resources
+
+*  [Pro Git](http://git-scm.com/book)
+
+*  [Software Carpentry Git & GitHub Lesson](http://software-carpentry.org/v5/novice/git/index.html)
