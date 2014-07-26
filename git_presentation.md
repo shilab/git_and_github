@@ -192,7 +192,7 @@ git checkout master
 
 --
 
-!Default Aligned Image](https://github-images.s3.amazonaws.com/help/pull_requests/pull-request-click-to-create.png)
+![Default Aligned Image](https://github-images.s3.amazonaws.com/help/pull_requests/pull-request-click-to-create.png)
 
 ---
 
