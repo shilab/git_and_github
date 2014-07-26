@@ -94,6 +94,18 @@ The commit message details what you have changed.
 
 # Git Basics
 
+* Update your local repository
+```
+git pull
+```
+
+--
+
+*  To see the repository history
+```
+git -log
+```
+
 * You can push the changes back to GitHub:
 ```
 git push origin <branch>
@@ -124,21 +136,3 @@ git checkout -b <new_branch>
 ```
 git checkout master
 ```
-
----
-
-#Git Basics
-
-* Update your local repository
-```
-git pull
-```
-
---
-
-*  To see the repository history
-```
-git -log
-```
-
-
