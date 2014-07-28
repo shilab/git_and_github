@@ -61,6 +61,8 @@ name: GitHub
 
 ---
 
+name: git_basics
+
 # Git Basics
 
 *  To create a new repository, cd into the directory and type:
@@ -164,6 +166,9 @@ git checkout master
 
 
 ---
+
+name: collaboration
+
 #Collaborating on GitHub - GitHub Flow
 
 * Create a branch 
@@ -212,7 +217,7 @@ git checkout master
 
 *  Its a place to publish our code that people can easily access. 
 
-*  GitHub pages
+*  [GitHub pages](https://pages.github.com/)
 
 *  The collaboration model
 
