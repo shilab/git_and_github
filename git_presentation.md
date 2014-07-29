@@ -36,6 +36,10 @@ name: git
 
 *  It allows you to revert file changes, view differences in file versions
 
+--
+
+*  It does not depend on a single, central repository
+
 ---
 # Where to get Git
 
@@ -49,15 +53,15 @@ name: GitHub
 
 # What is GitHub
 
-*  GitHub is a web based repository host for Git.  
+*  GitHub is a web based repository host for Git  
 
 --
 
-*  GitHub adds a web-based interface for Git. 
+*  GitHub adds a web-based interface for Git  
 
 --
 
-*  It adds functionality like forking, and pull requests which contribute to a collaborative model.
+*  It adds functionality like forking, and pull requests which contribute to a collaborative model  
 
 ---
 
@@ -72,7 +76,7 @@ git init
 
 --
 
-*  You can also clone a remote repository, like the one this presentation is on:
+*  You can also clone a remote repository, like the one this presentation is in:
 ```
 git clone https://github.com/shilab/git_and_github.git
 ```
@@ -213,7 +217,7 @@ name: collaboration
 
 *  [Code as citable objects](https://guides.github.com/activities/citable-code/)
 
-*  Pull Requests
+*  [Pull Requests](https://help.github.com/articles/using-pull-requests)
 
 *  Its a place to publish our code that people can easily access. 
 
