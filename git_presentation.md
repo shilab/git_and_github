@@ -229,6 +229,13 @@ name: collaboration
 
 # Resources
 
+*  [Git - The Simple Guide](http://rogerdudler.github.io/git-guide/)
+
+*  [Git Cheat Sheet](http://overapi.com/git/)
+
+*  [Git Cheat Sheet from
+*  GitHub](https://github.com/github/training-materials/blob/master/downloads/github-git-cheat-sheet.pdf?raw=true)
+
 *  [Pro Git](http://git-scm.com/book)
 
 *  [Software Carpentry Git & GitHub Lesson](http://software-carpentry.org/v5/novice/git/index.html)
@@ -238,4 +245,3 @@ name: collaboration
 *  [GitHub Flow](https://guides.github.com/introduction/flow/index.html)
 
 *  [GitHub Guides](https://guides.github.com/)
-
