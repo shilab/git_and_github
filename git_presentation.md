@@ -227,6 +227,8 @@ name: collaboration
 
 ---
 
+name: Resources
+
 # Resources
 
 *  [Git - The Simple Guide](http://rogerdudler.github.io/git-guide/)

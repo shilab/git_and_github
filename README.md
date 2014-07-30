@@ -9,3 +9,4 @@ Sections
 [What is GitHub](http://shilab.github.io/git_and_github/#GitHub)  
 [Git Basics](http://shilab.github.io/git_and_github/#git_basics)  
 [Using GitHub for Collaboration](http://shilab.github.io/git_and_github/#collaboration)  
+[Resources](http://shilab.github.io/git_and_github/#Resources)
