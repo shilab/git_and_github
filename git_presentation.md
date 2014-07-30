@@ -235,8 +235,7 @@ name: Resources
 
 *  [Git Cheat Sheet](http://overapi.com/git/)
 
-*  [Git Cheat Sheet from
-*  GitHub](https://github.com/github/training-materials/blob/master/downloads/github-git-cheat-sheet.pdf?raw=true)
+*  [Git Cheat Sheet from GitHub](https://github.com/github/training-materials/blob/master/downloads/github-git-cheat-sheet.pdf?raw=true)
 
 *  [Pro Git](http://git-scm.com/book)
 
